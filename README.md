@@ -1,13 +1,32 @@
-# Call-Center-Performance-Using-Power-bi
+# Call-Center-Performance-Using-Power-BI
 
 ## Table of Content
+[Description](#description)
+
+[Project Overview](#project-overview)
+
+[Aims and Objectives](#aims-and-objectives)
+
+[Business Problem](#business-problem)
+
+[Data Analysis Procedure](#data-analysis-procedure)
+
+[Tools Used](#tools-used)
+
+[Insights](#insights)
+
+[Recommendations](#recommendations)
+
+
 ## Description
 This project is an in-depth call center performance analysis using Power BI. It provides key insights into call center operations by tracking total calls made, call reach rates, deals closed, and revenue generated. The dashboard helps businesses identify areas for improvement, optimize agent performance, and make data-driven decisions to enhance customer engagement and sales conversions.
 With interactive visualizations and dynamic filtering options, users can analyze call center performance across different time periods and identify trends that impact business growth. The project applies Power Query for data cleaning, DAX for calculations, Power BI modeling for relationships, and visualization techniques to create a comprehensive report.
+
 ## Project Overview
 In this project, I created an interactive Power BI dashboard to analyze call center operations and performance. The dashboard provides insights into total calls made, call reach rates, deals closed, and total deal values to help businesses optimize their customer engagement and sales processes.
 
 A well-managed call center plays a crucial role in customer acquisition, service delivery, and revenue generation. However, without data-driven insights, it is difficult to track key performance indicators (KPIs) and identify areas for improvement. This project aims to bridge that gap by using Power BI to turn raw data into actionable insights.
+
 ## Aims and Objectives
 ### Aims:
 
@@ -40,7 +59,7 @@ Call centers handle thousands of customer interactions daily. However, without a
 
 - Poor revenue optimization: Without analyzing call success rates and deal values, businesses may be missing out on revenue opportunities.
 
-This dashboard is designed to solve these problems by providing a clear and data-driven approach to call center management.
+This analysis is designed to solve these problems by providing a clear and data-driven approach to call center management.
 
 ## Data Analysis Procedure
 1. Data Collection     
@@ -99,7 +118,7 @@ This dashboard is designed to solve these problems by providing a clear and data
 
 - Excel  – For initial data processing before importing into Power BI.
 
-## Key Insights from the Dashboard
+## Insights
 1. Total Calls vs. Calls Reached
 
    - The total number of calls made was 37,000, but only 15,000 were successfully reached.
